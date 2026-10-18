@@ -1,0 +1,46 @@
+
+body {
+    background-color: #383838;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+a {
+    color: #e0b079;
+}
+
+.first {
+    color: lightgray;
+    font-weight: bold;
+}
+
+.second {
+    font-style: italic;
+}
+
+.blue {
+    color: #4da6ff;
+}
+
+.left {
+    float: left;
+    width: 250px;
+    margin: 0 20px 15px 0;
+}
+
+.right {
+    float: right;
+    width: 250px;
+    margin: 0 0 15px 20px;
+}
+
+.bottom {
+    clear: both;
+    padding-top: 30px;
+}
