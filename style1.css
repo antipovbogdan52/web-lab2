@@ -1,0 +1,27 @@
+
+body {
+    background-color: #eeeeee;
+    color: #444444;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h3 {
+    margin-top: 35px;
+}
+
+a {
+    color: brown;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    margin: 6px 0;
+}
